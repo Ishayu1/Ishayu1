@@ -1,6 +1,6 @@
 # Ishayu Ghosh
 
-🌐 Personal Website: [https://ishayu1.github.io/portfolio_website/](https://ishayu1.github.io/portfolio_website/)
+🌐 Check out my personal website for all my experience and projects :) [https://ishayu1.github.io/portfolio_website/](https://ishayu1.github.io/portfolio_website/)
 
 
 # My Stats
