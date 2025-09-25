@@ -12,4 +12,6 @@
 <img src="https://wakatime.com/share/@018e7314-a885-4655-81e2-6deb175e9f8f/cc5a9d58-f70f-4af1-aec8-7568b8bdcc51.svg" height="400"/>
 
 
+The LeetCode grind is going :)
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/IshayuG)
