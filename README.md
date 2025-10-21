@@ -5,6 +5,12 @@
 
 # My Stats
 
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Ishayu1}&theme={transparent}
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Ishayu1}&theme={transparent}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={Ishayu1}&theme={transparent}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Ishayu1}&theme={transparent}
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={transparent}&utcOffset={utcOffset}
+
 [![](https://raw.githubusercontent.com/Ishayu1/Ishayu1/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Ishayu1/Ishayu1/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ishayu1/Ishayu1/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Ishayu1/Ishayu1/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ishayu1/Ishayu1/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
