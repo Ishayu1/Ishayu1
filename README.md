@@ -3,9 +3,7 @@
 🌐 Check out my personal website for all my experience and projects :) [https://ishayu1.github.io/portfolio_website/](https://ishayu1.github.io/portfolio_website/)
 
 
-# My Stats
-
-### 📊 GitHub Profile Summary Cards
+# 📊 My Stats
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishayu1&theme=transparent)](https://github.com/Ishayu1)
 
