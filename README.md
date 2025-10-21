@@ -5,15 +5,18 @@
 
 # My Stats
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Ishayu1}&theme={transparent}
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Ishayu1}&theme={transparent}&exclude={exclude}
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={Ishayu1}&theme={transparent}&exclude={exclude}
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Ishayu1}&theme={transparent}
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={transparent}&utcOffset={utcOffset}
+### 📊 GitHub Profile Summary Cards
 
-[![](https://raw.githubusercontent.com/Ishayu1/Ishayu1/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ishayu1/Ishayu1/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ishayu1/Ishayu1/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ishayu1/Ishayu1/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ishayu1/Ishayu1/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishayu1&theme=transparent)](https://github.com/Ishayu1)
+
+| Top Languages (by repos) | Top Languages (by commits) |
+| --- | --- |
+| ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishayu1&theme=transparent) | ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishayu1&theme=transparent) |
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishayu1&theme=transparent)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishayu1&theme=transparent&utcOffset=-7)
+
+
 
 <img src="https://wakatime.com/share/@018e7314-a885-4655-81e2-6deb175e9f8f/cc5a9d58-f70f-4af1-aec8-7568b8bdcc51.svg" height="400"/>
 
