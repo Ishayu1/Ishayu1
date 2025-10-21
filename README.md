@@ -5,14 +5,14 @@
 
 # 📊 My Stats
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishayu1&theme=transparent)](https://github.com/Ishayu1)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishayu1&theme=github_dark)](https://github.com/Ishayu1)
 
 | Top Languages (by repos) | Top Languages (by commits) |
 | --- | --- |
-| ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishayu1&theme=transparent) | ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishayu1&theme=transparent) |
+| ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishayu1&theme=github_dark) | ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishayu1&theme=github_dark) |
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishayu1&theme=transparent)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishayu1&theme=transparent&utcOffset=-7)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishayu1&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishayu1&theme=github_dark&utcOffset=-7)
 
 
 
